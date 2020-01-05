@@ -30,6 +30,5 @@ The dataset can be downloaded [here](https://drive.google.com/file/d/1BHtigR_egB
 Extract the dataset into the root directory of the cloned github repo - it should create a directory "data".
 Run a jupyter notebook from the root directory.
 
-The code in the jupyter notebook "src/Analysis.ipynb" should then run just fine
-
-Minor changes need to be made to make the code python3 comaptible. So please use python2 for the jn kernel.
+The code in the jupyter notebook "src/Analysis.ipynb" should then run just fine.(python2)
+Run the notebook "src/Analysis3.ipynb" for python3.
